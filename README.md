@@ -1,5 +1,6 @@
  Chess Game (Flutter)
-![Screenshot_2020-11-23-20-23-11-18_ef69c87fd99b77f16791e15fb1031ff4](https://user-images.githubusercontent.com/73152930/99976973-1e4df000-2dca-11eb-9926-b1560a463b48.png)
+ <img src="https://user-images.githubusercontent.com/73152930/99976973-1e4df000-2dca-11eb-9926-b1560a463b48.png" width="350">
+
 
 
 ## Getting Started
